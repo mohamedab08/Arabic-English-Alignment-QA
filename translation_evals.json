@@ -1,0 +1,9 @@
+[
+  {
+    "id": "bilingual_qa_001",
+    "domain": "Cellular Biology / Translation QA",
+    "english_prompt": "Describe the primary function of mitochondria and ATP synthesis.",
+    "ai_arabic_response": "تعتبر الميتوكوندريا محطة توليد الطاقة في الخلية، حيث تنتج جزيئات ثلاثي فسفات الأدينوزين (ATP) عبر عملية الفسفرة التأكسدية داخل الأعراف الميتوكوندريا.",
+    "terminology_audit": "The Arabic output correctly and fluently utilizes professional Modern Standard Arabic (MSA) scientific terminology, accurately translating mitochondrial structure ('الأعراف' for cristae) and metabolic pathways ('الفسفرة التأكسدية' for oxidative phosphorylation) without literal or syntactic drift."
+  }
+]
